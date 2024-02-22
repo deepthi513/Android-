@@ -1,0 +1,26 @@
+.navbar {
+    height: 80px; /* Adjust the height as needed */
+}
+
+/* Center the search input */
+.navbar-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 42px;
+    width: 360px;
+    margin-top: 16px;
+    left: 540px;
+    border-radius: 21px;
+}
+
+/* Position dropdown in the right corner */
+.navbar-nav {
+    margin-left: auto;
+}
+.carousel-item{
+    width: 360px;
+    height: 120px;
+    top: 320px;
+    border-radius: 4px, 4px, 0px, 0px;
+}
